@@ -47,7 +47,7 @@ dependencies:
   flutter_local_notifications: ^21.0.0
   flutter_libserialport: ^0.6.0
   flutter_riverpod: ^3.3.1
-  google_fonts: ^8.0.2
+  google_fonts: ^4.0.2
   flutter_animate: ^4.5.2
   flutter_background_service_android: ^6.3.1
   libserialport: ^0.3.0+1
